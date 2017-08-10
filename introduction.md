@@ -8,6 +8,8 @@ as you know
 
 my favourite codeschool path is javascript
 
+I don't understand pull requests still
+
 **The End**
 
 
