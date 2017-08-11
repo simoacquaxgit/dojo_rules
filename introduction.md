@@ -1,14 +1,18 @@
-**HELLO**
+** HELLO **
 
-*this is an introduction for sure, very interesting*
+* *this is an introduction for sure, very interesting*
 
-my username is `simoacquaxgit`
+* my username is `simoacquaxgit`
 
-as you know
+* as you know
 
-my favourite codeschool path is javascript
+* my favourite codeschool path is javascript
 
-**The End**
+* I don't understand pull requests still
+
+* they say Killing history using git rebase is going to be one of my deadly skills
+
+** The End **
 
 
 
